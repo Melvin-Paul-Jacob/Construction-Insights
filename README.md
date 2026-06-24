@@ -103,7 +103,7 @@ Place the trained models in the following locations:
 
 ```text
 weights/
-├── ppe.pt
+├── ppe.pt # download from https://github.com/Vinayakmane47/PPE_detection_YOLO/tree/main/YOLO-Weights
 └── person.onnx
 ```
 
