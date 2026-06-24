@@ -1,0 +1,6 @@
+ultralytics==8.4.76
+# opencv-python==4.13.0.92
+# opencv-contrib-python==4.13.0.92
+onnxruntime==1.23.2
+onnx==1.22.0
+pandas==2.3.3
